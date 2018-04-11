@@ -12,7 +12,7 @@ import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String urlBase = "https://apitestes.info.ufrn.br/";
+    private final String urlBase = "https://autenticacao.info.ufrn.br/";
     private final String clientId = "CLIENT_ID";
     private final String clientSecret = "CLIENT_SECRET";
     private final String apiKey = "API_KEY";
